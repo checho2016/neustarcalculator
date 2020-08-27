@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{6CCAB4E9-FC86-45B1-9B0C-069003A040A7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CalculatorTests/CalculatorTests.cs">
+    <Files>
+      <File FileName="NeustarCalculator/Program.cs" Line="48" Column="36" />
+      <File FileName="CalculatorTests/CalculatorTests.cs" Line="32" Column="44" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NeustarCalculator" expanded="True">
+            <Node name="CalculatorTests" expanded="True">
+              <Node name="CalculatorTests.cs" selected="True" />
+            </Node>
+            <Node name="NeustarCalculator" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.NeustarCalculator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

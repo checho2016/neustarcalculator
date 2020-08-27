@@ -1,0 +1,12 @@
+/Users/sergioflores/Documentos/Neustar/NeustarCalculator/NeustarCalculator/bin/Debug/netcoreapp3.1/NeustarCalculator.deps.json
+/Users/sergioflores/Documentos/Neustar/NeustarCalculator/NeustarCalculator/bin/Debug/netcoreapp3.1/NeustarCalculator.runtimeconfig.json
+/Users/sergioflores/Documentos/Neustar/NeustarCalculator/NeustarCalculator/bin/Debug/netcoreapp3.1/NeustarCalculator.runtimeconfig.dev.json
+/Users/sergioflores/Documentos/Neustar/NeustarCalculator/NeustarCalculator/bin/Debug/netcoreapp3.1/NeustarCalculator.dll
+/Users/sergioflores/Documentos/Neustar/NeustarCalculator/NeustarCalculator/bin/Debug/netcoreapp3.1/NeustarCalculator.pdb
+/Users/sergioflores/Documentos/Neustar/NeustarCalculator/NeustarCalculator/obj/Debug/netcoreapp3.1/NeustarCalculator.csprojAssemblyReference.cache
+/Users/sergioflores/Documentos/Neustar/NeustarCalculator/NeustarCalculator/obj/Debug/netcoreapp3.1/NeustarCalculator.AssemblyInfoInputs.cache
+/Users/sergioflores/Documentos/Neustar/NeustarCalculator/NeustarCalculator/obj/Debug/netcoreapp3.1/NeustarCalculator.AssemblyInfo.cs
+/Users/sergioflores/Documentos/Neustar/NeustarCalculator/NeustarCalculator/obj/Debug/netcoreapp3.1/NeustarCalculator.csproj.CoreCompileInputs.cache
+/Users/sergioflores/Documentos/Neustar/NeustarCalculator/NeustarCalculator/obj/Debug/netcoreapp3.1/NeustarCalculator.dll
+/Users/sergioflores/Documentos/Neustar/NeustarCalculator/NeustarCalculator/obj/Debug/netcoreapp3.1/NeustarCalculator.pdb
+/Users/sergioflores/Documentos/Neustar/NeustarCalculator/NeustarCalculator/obj/Debug/netcoreapp3.1/NeustarCalculator.genruntimeconfig.cache

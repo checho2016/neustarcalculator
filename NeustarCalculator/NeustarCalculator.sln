@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeustarCalculator", "NeustarCalculator\NeustarCalculator.csproj", "{6CCAB4E9-FC86-45B1-9B0C-069003A040A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorTests", "CalculatorTests\CalculatorTests.csproj", "{18B6F968-5C15-413A-A231-9AB572F441A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CCAB4E9-FC86-45B1-9B0C-069003A040A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CCAB4E9-FC86-45B1-9B0C-069003A040A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CCAB4E9-FC86-45B1-9B0C-069003A040A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CCAB4E9-FC86-45B1-9B0C-069003A040A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18B6F968-5C15-413A-A231-9AB572F441A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18B6F968-5C15-413A-A231-9AB572F441A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18B6F968-5C15-413A-A231-9AB572F441A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18B6F968-5C15-413A-A231-9AB572F441A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
